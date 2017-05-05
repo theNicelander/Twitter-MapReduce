@@ -3,7 +3,7 @@ First coursework for Big Data Processing, QMUL 2016
 
 Processing 25 million tweets from the Rio 2016 Olympics using using the Hadoop Framework. 
 
-See Report.pdf for full details
+See Report.pdf for full details and code implementation.
 
 # A. Content Analysis
 
